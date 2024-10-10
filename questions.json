@@ -1,0 +1,294 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Which sentence is in simple present tense?",
+        "options": [
+            "He played soccer yesterday.",
+            "She will dance tomorrow.",
+            "They eat breakfast every morning.",
+            "We went to the park last week."
+        ],
+        "correct": 2,
+        "explanation": "This sentence uses the simple present tense to describe a habitual action."
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Fill in the blank with the correct simple past tense verb: Yesterday, I _____ to the store.",
+        "options": [
+            "go",
+            "went",
+            "goes",
+            "going"
+        ],
+        "correct": 1,
+        "explanation": "'Went' is the simple past tense form of 'go'."
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Which sentence is in simple future tense?",
+        "options": [
+            "She sings in the choir.",
+            "They played basketball last night.",
+            "We will visit our grandparents next week.",
+            "He studied for his test."
+        ],
+        "correct": 2,
+        "explanation": "This sentence uses 'will' + base verb form to indicate a future action."
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "Which verb form completes this sentence in simple past tense? Last summer, we _____ to the beach every weekend.",
+        "options": [
+            "go",
+            "went",
+            "will go",
+            "goes"
+        ],
+        "correct": 1,
+        "explanation": "'Went' is the simple past tense form of 'go' and fits the context of 'last summer'."
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "Fill in the blank with the correct simple future tense: Tomorrow, they _____ a new car.",
+        "options": [
+            "buy",
+            "bought",
+            "will buy",
+            "buys"
+        ],
+        "correct": 2,
+        "explanation": "'Will buy' indicates a future action that will happen tomorrow."
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "Which sentence is in simple present tense?",
+        "options": [
+            "The sun rose at 6 AM.",
+            "The dog barks at the mailman.",
+            "We will eat dinner at 7 PM.",
+            "She wrote a letter to her friend."
+        ],
+        "correct": 1,
+        "explanation": "This sentence describes a habitual action in the present tense."
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "In simple future tense, we always use 'will' before the main verb.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0,
+        "explanation": "In simple future tense, 'will' is used before the base form of the main verb."
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "Which verb form completes this sentence in simple present tense? The Earth _____ around the Sun.",
+        "options": [
+            "revolved",
+            "revolves",
+            "will revolve",
+            "revolving"
+        ],
+        "correct": 1,
+        "explanation": "This is a general truth, so we use simple present tense."
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "Fill in the blank with the correct simple past tense verb: Last night, she _____ her homework.",
+        "options": [
+            "do",
+            "does",
+            "did",
+            "will do"
+        ],
+        "correct": 2,
+        "explanation": "'Did' is the simple past tense form of 'do'."
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "Which sentence is in simple future tense?",
+        "options": [
+            "I eat breakfast at 7 AM.",
+            "She rode her bike yesterday.",
+            "They will attend the concert next month.",
+            "We clean our room every Saturday."
+        ],
+        "correct": 2,
+        "explanation": "This sentence uses 'will' to indicate a future action."
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "The simple past tense always ends with <br>'-ed'.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1,
+        "explanation": "While many verbs form the simple past tense by adding '-ed', irregular verbs have different forms."
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "Which verb form completes this sentence in simple present tense? The sun _____ in the east.",
+        "options": [
+            "rose",
+            "rises",
+            "will rise",
+            "rising"
+        ],
+        "correct": 1,
+        "explanation": "This is a general truth, so we use simple present tense."
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "Fill in the blank with the correct simple future tense: Next year, I _____ high school.",
+        "options": [
+            "start",
+            "started",
+            "will start",
+            "starts"
+        ],
+        "correct": 2,
+        "explanation": "'Will start' indicates a future action that will happen next year."
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "Which sentence is in simple past tense?",
+        "options": [
+            "She sings in the choir every Sunday.",
+            "They will travel to Europe next summer.",
+            "We watched a movie last night.",
+            "He always eats cereal for breakfast."
+        ],
+        "correct": 2,
+        "explanation": "This sentence describes a completed action in the past."
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "In simple present tense, we add '-s' or '-es' to the verb for all subjects.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1,
+        "explanation": "We only add '-s' or '-es' for third-person singular subjects (he, she, it)."
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "Which verb form completes this sentence in simple future tense? Tomorrow, the weather _____ sunny.",
+        "options": [
+            "is",
+            "was",
+            "will be",
+            "being"
+        ],
+        "correct": 2,
+        "explanation": "'Will be' indicates a future state or condition."
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "Fill in the blank with the correct simple past tense verb: Last week, they _____ a new car.",
+        "options": [
+            "buy",
+            "bought",
+            "will buy",
+            "buys"
+        ],
+        "correct": 1,
+        "explanation": "'Bought' is the simple past tense form of 'buy'."
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "Which sentence is in simple present tense?",
+        "options": [
+            "The library opens at 9 AM every day.",
+            "We will celebrate her birthday next week.",
+            "The train arrived late yesterday.",
+            "They moved to a new house last month."
+        ],
+        "correct": 0,
+        "explanation": "This sentence describes a regular, habitual action in the present."
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "The simple future tense can only be formed using 'will'.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1,
+        "explanation": "While 'will' is common, the simple future can also be formed using 'going to'."
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "Which verb form completes this sentence in simple past tense? Yesterday, the children _____ in the park.",
+        "options": [
+            "play",
+            "plays",
+            "played",
+            "will play"
+        ],
+        "correct": 2,
+        "explanation": "'Played' is the simple past tense form of 'play'."
+    },
+    {
+        "questionNo": "Q21.",
+        "question": "Fill in the blank with the correct simple present tense verb: The Earth _____ on its axis.",
+        "options": [
+            "rotated",
+            "rotates",
+            "will rotate",
+            "rotating"
+        ],
+        "correct": 1,
+        "explanation": "This is a general truth, so we use simple present tense."
+    },
+    {
+        "questionNo": "Q22.",
+        "question": "Which sentence is in simple future tense?",
+        "options": [
+            "She walks to school every day.",
+            "They visited their grandparents last weekend.",
+            "We eat dinner at 6 PM.",
+            "He will finish his homework before bedtime."
+        ],
+        "correct": 3,
+        "explanation": "This sentence uses 'will' to indicate a future action."
+    },
+    {
+        "questionNo": "Q23.",
+        "question": "Fill in the blank with the correct verb: Next month, they _____ to a new house.",
+        "options": [
+            "move",
+            "moved",
+            "will move",
+            "moves"
+        ],
+        "correct": 2,
+        "explanation": "'Will move' indicates a future action that will happen next month."
+    },
+    {
+        "questionNo": "Q24.",
+        "question": "Fill in the blanks with the correct tense forms: The museum _____ (open) at 9 AM every day, _____ (close) at 5 PM yesterday due to a special event, and _____ (feature) a new exhibit next month.",
+        "options": [
+            "opens, closed, will feature",
+            "opened, closes, features",
+            "will open, closed, features",
+            "opens, will close, featured"
+        ],
+        "correct": 0,
+        "explanation": "This sentence requires a simple present for daily routine, a simple past for a specific past event, and a simple future for an upcoming event."
+    },
+    {
+        "questionNo": "Q25.",
+        "question": "Which sentence uses tenses incorrectly?",
+        "options": [
+            "The sun rises in the east and sets in the west.",
+            "Water boils at 100 degrees Celsius and froze at 0 degrees.",
+            "Plants need sunlight to grow and produce oxygen.",
+            "Seasons change throughout the year and affect weather patterns."
+        ],
+        "correct": 1,
+        "explanation": "This sentence incorrectly mixes simple present ('boils') and simple past ('froze') for stating scientific facts. It should be 'freezes' to maintain consistency."
+    }
+]
